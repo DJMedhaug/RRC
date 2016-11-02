@@ -1,0 +1,18 @@
+#back_to_top { float: right; margin: 20px 40px 0px 0; }
+
+.header-classic #Top_bar{
+    background-image: url("../images/top_bar_bg.jpg") !important;
+	background-position: right top !important;
+	background-repeat: no-repeat !important;
+}
+
+.asg_title {
+	display: inline-block;
+	font-size: 13px;
+	font-family: "Orbitron";
+	color: #FFFFFF;
+	background: #e20a00;
+	padding: 7px 30px;
+	letter-spacing: 1px;
+}
+
